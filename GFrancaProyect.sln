@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFranca.web", "GFranca.web\GFranca.web.csproj", "{A2F4C8EF-2A33-46C1-BA15-829CD7FA6788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GFranca.Logic", "GFranca.Logic\GFranca.Logic.csproj", "{1BBA0618-6916-4A8D-8456-E287BB2D503D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2F4C8EF-2A33-46C1-BA15-829CD7FA6788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2F4C8EF-2A33-46C1-BA15-829CD7FA6788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2F4C8EF-2A33-46C1-BA15-829CD7FA6788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2F4C8EF-2A33-46C1-BA15-829CD7FA6788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BBA0618-6916-4A8D-8456-E287BB2D503D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BBA0618-6916-4A8D-8456-E287BB2D503D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BBA0618-6916-4A8D-8456-E287BB2D503D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BBA0618-6916-4A8D-8456-E287BB2D503D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA6BD2AE-35B6-40AD-AECA-8FD31B96FD94}
+	EndGlobalSection
+EndGlobal
